@@ -19,7 +19,7 @@
 - Java Spring Boot
 - Spring Data JPA
 - MySQL (hoặc PostgreSQL)
-- Spring Security (nếu có)
+- Spring Security 
 
 -------------------------------------------------------------------------------------
 
